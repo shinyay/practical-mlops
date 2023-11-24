@@ -48,6 +48,12 @@ Intall dependencies
 pip install -r requirements.txt
 ```
 
+### 3. Create Docker image
+
+```shell
+docker build -t shinyay/roberta-sequence-classification-9 .
+```
+
 ## Installation
 
 ## References
