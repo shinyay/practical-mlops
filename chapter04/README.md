@@ -42,6 +42,12 @@ Create vietual environment
 python -m venv .venv
 ```
 
+Intall dependencies
+
+```shell
+pip install -r requirements.txt
+```
+
 ## Installation
 
 ## References
