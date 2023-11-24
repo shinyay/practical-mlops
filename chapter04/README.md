@@ -15,6 +15,14 @@ Overview
 
 ## Usage
 
+### 1. Download ONYX model
+
+```shell
+curl -sL https://github.com/onnx/models/raw/main/text/machine_comprehension/roberta/model/roberta-sequence-classification-9.tar.gz| tar xvf -
+mv roberta-sequence-classification-9/roberta-sequence-classification-9.onnx .
+rm -fr roberta-sequence-classification-9
+```
+
 ## Installation
 
 ## References
