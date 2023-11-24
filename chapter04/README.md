@@ -54,6 +54,12 @@ pip install -r requirements.txt
 docker build -t shinyay/roberta-sequence-classification-9 .
 ```
 
+Run the docker image
+
+```shell
+docker run --rm -it -p 5001:5001 shinyay/roberta-sequence-classification-9
+```
+
 ## Installation
 
 ## References
