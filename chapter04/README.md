@@ -36,6 +36,12 @@ Python version: `3.8.18`
 pyenv local 3.8.18
 ```
 
+Create vietual environment
+
+```shell
+python -m venv .venv
+```
+
 ## Installation
 
 ## References
