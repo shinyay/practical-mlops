@@ -19,6 +19,9 @@ Overview
 
 - [RoBERTa](https://github.com/onnx/models/tree/main/text/machine_comprehension/roberta)
 
+RoBERTa Use cases:
+Transformer-based language model for text generation.
+
 ```shell
 curl -sL https://github.com/onnx/models/raw/main/text/machine_comprehension/roberta/model/roberta-sequence-classification-9.tar.gz| tar xvf -
 mv roberta-sequence-classification-9/roberta-sequence-classification-9.onnx .
