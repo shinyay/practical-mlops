@@ -28,6 +28,14 @@ mv roberta-sequence-classification-9/roberta-sequence-classification-9.onnx .
 rm -fr roberta-sequence-classification-9
 ```
 
+### 2. Configure Python Environment
+
+Python version: `3.8.18`
+
+```shell
+pyenv local 3.8.18
+```
+
 ## Installation
 
 ## References
