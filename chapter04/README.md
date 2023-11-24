@@ -60,6 +60,14 @@ Run the docker image
 docker run --rm -it -p 5001:5001 shinyay/roberta-sequence-classification-9
 ```
 
+### 4. Test the app
+
+```shell
+ curl -X POST  -H "Content-Type: application/json" \
+      --data '["MLOps is critical for robustness"]' \
+      http://0.0.0.0:5001/predict
+```
+
 ## Installation
 
 ## References
