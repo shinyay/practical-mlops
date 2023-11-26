@@ -1,4 +1,4 @@
-# Name
+# Learning "Practical MLOps"
 
 Overview
 
